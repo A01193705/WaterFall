@@ -19,3 +19,17 @@ Cambios a versiones previas
 Basicamente agregue la pelota de playa en la escena para poder ver las sombras y el sol reflejado de ella. Sin embargo
 me di cuenta que al exportar el proyecto en WebGl las sombras desaparecian, tuve que cambiar la calidad de WebGL a lo 
 mas alto para que en este si se muestren sombras.
+
+Referencias:
+
+Assets:
+Pelota de playa, sacado del paquete gratuito en la unity asset store "FREE Beach Essentials Asset Pack"
+elaborado por: Ferocious Industries, 
+link al paquete https://assetstore.unity.com/packages/3d/props/free-beach-essentials-asset-pack-131149 .
+
+Texturas:
+Textura de la alberca, https://www.sketchuptextureclub.com/textures/architecture/tiles-interior/mosaico/pool-tiles/mosaico-pool-tiles-texture-seamless-15695
+Textura de la pared, https://www.textures.com/download/ConcreteStucco0195/66499
+Textura humo, https://www.istockphoto.com/es/foto/humo-blanco-sobre-un-fondo-negro-gm1273335896-375245789?utm_medium=organic&utm_source=google&utm_campaign=iptcurl
+Textura del agua, https://www.dreamstime.com/water-pool-texture-blue-image143546273
+
