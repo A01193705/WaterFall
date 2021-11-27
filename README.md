@@ -1,5 +1,5 @@
 # WaterFall
-Proyeccto Final Graficas Computacionales
+Proyecto Final Graficas Computacionales
 
 Integrantes del equipo:
 Francisco Garza Gonzalez A01193705
