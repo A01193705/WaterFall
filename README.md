@@ -6,11 +6,11 @@ Francisco Garza Gonzalez A01193705
 
 En este proyecto decidi principalmente tratar de recrear la cascada que tenemos aqui en la casa, siento que lo logre
 porque al subir el proyecto en github pages se lo mande a una amigo para ver que decia sin decirle nada,
-el sin embargo me dijo "no es la cascada de tu casa", por lo tanto se que accerter con el diseno de este. Mi cascada
-basicament consiste de una pared blanca en el fondo, una alberca con marmol en los alrededores y la cascada en si
+el sin embargo me dijo "no es la cascada de tu casa", por lo tanto se que accerte con el diseno de este. Mi cascada
+basicamente consiste de una pared blanca en el fondo, una alberca con marmol en los alrededores y la cascada en si
 esta en el centro de la alberca y coniste de marmol obscuro. Las animaciones del agua fueron creadas usando el
-sistema de particulas de Unity, utilizamos varios sitemas para simular el agua callendo, cuanto pega en la superficie,
-el vapor de esta y el vapor que sale volando despues de la colision con la superficie del agua.
+sistema de particulas de Unity, utilizamos varios sitemas de particulas para simular el agua callendo, cuando pega
+en la superficie, el vapor de esta y el vapor que sale volando despues de la colision con la superficie del agua.
 
 Funcionamiento
 Github pages: https://a01193705.github.io/WaterFall/
